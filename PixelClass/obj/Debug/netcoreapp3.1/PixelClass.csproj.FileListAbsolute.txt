@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\PixelClass\PixelClass\bin\Debug\netcoreapp3.1\PixelClass.exe
+C:\Users\GET\source\repos\PixelClass\PixelClass\bin\Debug\netcoreapp3.1\PixelClass.deps.json
+C:\Users\GET\source\repos\PixelClass\PixelClass\bin\Debug\netcoreapp3.1\PixelClass.runtimeconfig.json
+C:\Users\GET\source\repos\PixelClass\PixelClass\bin\Debug\netcoreapp3.1\PixelClass.runtimeconfig.dev.json
+C:\Users\GET\source\repos\PixelClass\PixelClass\bin\Debug\netcoreapp3.1\PixelClass.dll
+C:\Users\GET\source\repos\PixelClass\PixelClass\bin\Debug\netcoreapp3.1\PixelClass.pdb
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.AssemblyInfo.cs
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.dll
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.pdb
+C:\Users\GET\source\repos\PixelClass\PixelClass\obj\Debug\netcoreapp3.1\PixelClass.genruntimeconfig.cache
